@@ -1,0 +1,5 @@
+google-adk
+python-dotenv 
+gspread 
+google-auth 
+google-cloud-aiplatform
